@@ -12,3 +12,4 @@ jwt:
     converter:
       resource-id: back_kc
       principal-attribute: preferred_username
+
